@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(159, 109, 206);
+    font-family: Arial;
+}
+
+.titre {
+    background-color: rgb(202, 150, 197);
+    height: 300px;
+    width: 400px;
+    color: rgb(49, 61, 27);
+    float: left;
+}
+
+.b2 {
+    background-color: rgb(202, 150, 197);
+    height: 400px;
+    width: 400px;
+    margin-bottom: 20px;
+    color: rgb(49, 61, 27);
+    float: right;
+}
+
+.b3 {
+    background-color: rgb(202, 150, 197);
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    border: 2px solid black;
+    clear: both;
+}
+
+.buton {
+    background-color: rgb(202, 150, 197);
+    color: rgb(25, 45, 63);
+}

@@ -1,0 +1,39 @@
+body {
+    background-color: pink;
+    font-family: Arial;
+}
+
+.titre {
+    background-color: rgb(164, 141, 185);
+    height:  100px;
+    width: 50%;
+    margin: auto;
+    color: rgb(130, 90, 31);
+    margin-bottom: 25px;
+}
+
+.p1, .p3 {
+    height: 200;
+    width: 80%;
+    background-color: rgb(202, 150, 197);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.p2 {
+    height: 200px;
+    width: 80%;
+    background-color: rgb(202, 150, 197);
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.buton {
+    background-color: rgb(202, 150, 197);
+    color: rgb(25, 45, 63);
+}
