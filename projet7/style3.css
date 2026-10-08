@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(159, 109, 206);
+
+}
+.titre {
+    background-color: rgb(202,150,197);
+    height: 25%;
+    width: 100%;
+    text-align: center;
+    color: rgb(27, 62, 42);
+}    
+
+.d1 {
+    background-color: rgb(232, 14, 152);
+    height: 30%;
+    width: 30%;
+    border: 2px solid black;
+
+}
+.h1 {
+    text-align: center;
+}
+.p1 {
+    background-color: rgb(202, 150, 197);
+    border:2px solid black ;
+    border-radius: 10px;
+}
+.d2 { 
+    background-color: rgb(232, 14, 152);
+    height: 30%;
+    width: 30%;
+    border: 2px solid black;
+}
+.h2 {
+    background-color: rgb(232, 14, 152);
+    height: 10%;
+    width: 25%;
+    font-size: 45%;
+    text-align: center;
+    border: 2px solid black;
+    float: left;
+}
+.p2 {
+background: rgb(202, 150, 197);
+    height: 30%;
+    width: 30%;
+    float: left;
+}
+
+.img3 {
+    background-color: rgb(202, 150, 197);
+    height: 200px;
+    width: 200px;
+    border:2px solid black ;
+    border-radius: 10px;
+    float: left;
+
+}
+
+
