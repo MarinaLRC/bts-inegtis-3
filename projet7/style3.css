@@ -1,3 +1,87 @@
+<<<<<<< HEAD
+body {
+    background-color: rgb(159, 109, 206);
+
+}
+.titre {
+    background-color: rgb(202,150,197);
+    color: rgb(27, 62, 42);
+    height: 25%;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 20xp;
+}    
+
+.d1 {
+    background-color: rgb(232, 14, 152);
+    height: 30%;
+    width: 30%;
+    border: 2px solid black;
+
+}
+.h1 {
+    text-align: center;
+}
+.p1 {
+    background-color: rgb(202, 150, 197);
+    border:2px solid black ;
+    border-radius: 10px;
+}
+
+
+.d2 { 
+    background-color: rgb(232, 14, 152);
+    height: 30%;
+    width: 30%;
+    border: 2px solid black;
+}
+.h2 {
+    background-color: rgb(232, 14, 152);
+    height: 10%;
+    width: 25%;
+    font-size: 45%;
+    text-align: center;
+    border: 2px solid black;
+}
+.p2 {
+background: rgb(202, 150, 197);
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    
+}
+
+.image {
+    flex-grow: 1;
+    display: block;
+    width: 250px;
+    height: 1200px;
+    box-sizing: border-box;
+    object-fit: contain;
+}
+
+.sec1 {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+
+.img3 {
+    background-color: rgb(202, 150, 197);
+    height: 200px;
+    width: 200px;
+    border:2px solid black ;
+    border-radius: 10px;
+    
+}
+
+
+ 
+=======
 body {
     background-color: rgb(159, 109, 206);
 
@@ -58,3 +142,4 @@ background: rgb(202, 150, 197);
 }
 
 
+>>>>>>> a98f96309be673c8dd26e252015b7fbe6a7d22eb
