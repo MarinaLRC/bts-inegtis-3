@@ -1,82 +1,95 @@
+
 body {
     background-color: rgb(159, 109, 206);
+    margin: auto;
 
 }
 .titre {
     background-color: rgb(202,150,197);
-    color: rgb(27, 62, 42);
+    color: rgb(10, 10, 10);
     height: 25%;
     width: 100%;
     text-align: center;
+    padding: 50xp;
     margin: auto;
-    padding: 20xp;
 }    
 
 .d1 {
     background-color: rgb(232, 14, 152);
     height: 30%;
     width: 30%;
-    border: 2px solid black;
-
+    border-radius: 15px;
+    border: 3px solid skyblue;
 }
-.h1 {
+
+.t1 {
+    background-color: rgb(232, 176, 232);
     text-align: center;
-}
-.p1 {
-    background-color: rgb(202, 150, 197);
-    border:2px solid black ;
-    border-radius: 10px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    margin: 10px;
 }
 
-
-.d2 { 
-    background-color: rgb(232, 14, 152);
-    height: 30%;
-    width: 30%;
-    border: 2px solid black;
-}
-.h2 {
-    background-color: rgb(232, 14, 152);
-    height: 10%;
-    width: 25%;
-    font-size: 45%;
-    text-align: center;
-    border: 2px solid black;
-}
 .p2 {
-background: rgb(202, 150, 197);
-    border: 2px solid black;
-    border-radius: 10px;
+    background: rgb(232, 176, 232);
+    border-radius: 15px;
+    border: 2px solid skyblue;
     font-family: Arial, Helvetica, sans-serif;
-    float: left;
-    
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 25px;
 }
 
 .image {
     flex-grow: 1;
-    display: block;
     width: 250px;
-    height: 1200px;
+    height: 250px;
     box-sizing: border-box;
     object-fit: contain;
+    border: 2px solid skyblue;
 }
 
 .sec1 {
     display: flex;
     gap: 20px;
     padding: 20px;
-    margin-bottom: 10px;
-}
-
-
-.img3 {
-    background-color: rgb(202, 150, 197);
-    height: 200px;
-    width: 200px;
-    border:2px solid black ;
-    border-radius: 10px;
     
 }
 
 
- 
+.sec2 {
+    display: flex;
+    background-color: rgb(202, 150, 197);
+    padding: 20px;
+
+}
+
+.d2 {
+    display: inline-block;
+    border: 5px;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: rgb(202, 150, 197);
+    padding: 20px; 
+    text-align: center;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
