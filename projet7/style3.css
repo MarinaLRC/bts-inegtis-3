@@ -20,6 +20,7 @@ body {
     width: 30%;
     border-radius: 15px;
     border: 3px solid skyblue;
+    align-items: auto;
 }
 
 .t1 {
@@ -50,12 +51,15 @@ body {
     box-sizing: border-box;
     object-fit: contain;
     border: 2px solid skyblue;
+    border-radius: 15px;
 }
 
 .sec1 {
     display: flex;
+    align-items: auto;
     gap: 20px;
-    padding: 20px;
+    margin: 15px;
+    align-items: center;
     
 }
 
