@@ -53,11 +53,11 @@ h1, h2 {
     display: table;
     clear: both;
 }
-.bloc-porto {
+.bloc-bordeaux {
     background-color: #d9eef7;
 }
 
-.bloc-porto h3 {
+.bloc-bordeaux h3 {
     color: #0b6e99;
 }
 
