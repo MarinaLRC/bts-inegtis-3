@@ -1,0 +1,87 @@
+body {
+    font-family: Arial;
+    background-color: rgb(244, 232, 254);
+    margin: 20px;
+
+}
+.principal {
+    width: 80%;
+    border: 3px solid black;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 4px 4px 10px rgb(109, 4, 100);
+
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+hr {
+    border: bottom; 
+}
+
+.header {
+    margin-top:5%;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgb(109, 4, 100);
+    padding: 15px;
+}
+.info{
+    line-height: 1.6;
+}
+
+.photo img {
+    float: right;
+    width: 70px;
+    height: 100px; 
+    object-fit: cover;
+   
+}
+
+.formation {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 10px rgb(109, 4, 100);
+}
+.form {
+    display: block;
+    gap: 30px;
+    margin-bottom: 15px;
+}
+
+.date {
+    text-align: left;
+}
+
+.contenu {
+    text-align: center;
+    line-height: 1.5;
+}
+
+.experience {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 10px rgb(109, 4, 100);
+}
+
+.langue {
+    text-align: left;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgb(109, 4, 100);
+   
+}
+
+.interet {
+    text-align: center;
+}
